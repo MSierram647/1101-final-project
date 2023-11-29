@@ -4,7 +4,7 @@ print("Hello World")
 
 # Import libraries and packages, they contain additional functions
 
-from flask import Flask; render_template
+from flask import Flask, render_template
 
 # Create web application using Flask
 
